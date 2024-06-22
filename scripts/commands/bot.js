@@ -11,12 +11,12 @@ const tl = [
 const lang = "bn";
 
 module.exports.config = {
-  name: "mim",
+  name: "bot",
   version: "0.0.4",
   permission: 0,
   prefix: false,
   credits: "Nayan",
-  description: "talk with mim",
+  description: "talk with bot",
   category: "user",
   usages: "",
   cooldowns: 5,
