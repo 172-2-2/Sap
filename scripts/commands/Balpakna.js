@@ -20,7 +20,7 @@ react.includes("xn") ||
 react.includes("xona") || react.includes("xuna") || react.includes("ভালবাসি") ||
 react.includes("ব্রেকাপ") ||
 react.includes("break up") ||
-react.includes("sex") ||
+react.includes("Vilen") ||
 react.includes("Jan") ||  
 react.includes("Fucking") ||
 react.includes("🤤")) {
