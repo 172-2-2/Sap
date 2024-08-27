@@ -17,8 +17,8 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
      react.includes("bow") || 
 react.includes("baby") || react.includes("xan") || react.includes("xanu") || react.includes("sona") ||
 react.includes("xn") ||
-react.includes("xona") || react.includes("xuna") || react.includes("ভালবাসি") ||
-react.includes("ব্রেকাপ") ||
+react.includes("bby") || react.includes("xuna") || react.includes("ভালবাসি") ||
+react.includes("Mim") ||
 react.includes("break up") ||
 react.includes("Vilen") ||
 react.includes("Jan") ||  
