@@ -49,7 +49,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("Khud k0o KYa LeGend SmJhTi Hai 😂", threadID);
    };
 
-   if ((event.body.toLowerCase() == "morning") || (event.body.toLowerCase() == "good morning")) {
+   if ((event.body.toLowerCase() == "dud m9") || (event.body.toLowerCase() == "good morning")) {
      return api.sendMessage("GOOD MORNING দাত ব্রাশ করে খেয়ে নেও😚", threadID);
    };
 
@@ -57,7 +57,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("~ তোমার বাল উঠে নাই নাকি তোমার?? 🤖", threadID);
    };
 
-  if ((event.body.toLowerCase() == "arif") || (event.body.toLowerCase() == "জিহাদ ভাই") || (event.body.toLowerCase() == "জিহাদ") || (event.body.toLowerCase() == "বট")) {
+  if ((event.body.toLowerCase() == "arif") || (event.body.toLowerCase() == "Santo") || (event.body.toLowerCase() == "জিহাদ") || (event.body.toLowerCase() == "বট")) {
      return api.sendMessage("উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",threadID);
 
        
@@ -67,7 +67,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞Santo dewan(✷‿✷)☜\n𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐓𝐎𝐌.\n𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :- https://www.facebook.com/100067540204855\nতার সাতে যোগা যোগ করবেন WhatsApp :- +8801998679205", threadID);
    };
 
-   if ((event.body.toLowerCase() == "tor boss ke") || (event.body.toLowerCase() == "admin ke ")) {
+   if ((event.body.toLowerCase() == "tor boss ke") || (event.body.toLowerCase() == "arif ")) {
      return api.sendMessage("My Creator:ARIF KING ❤️/n হাই আমি মেছেন্জার ROBOT  আামার বস Arif আমাকে আমাকে বানিয়েছেন আপনাদের কে হাসানোর জন্য/n আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
    };
 
