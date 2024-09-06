@@ -1,31 +1,5 @@
-[
-    {
-        "key": "dbln",
-        "value": "%7B%22100072970947397%22%3A%225eu87xyb%22%2C%2261564796383529%22%3A%223q6kg7XU%22%7D",
-        "domain": "facebook.com",
-        "path": "/login/device-based/",
-        "hostOnly": false,
-        "creation": "2024-09-06T13:28:47.163Z",
-        "lastAccessed": "2024-09-06T13:28:47.163Z"
-    },
-    {
-        "key": "datr",
-        "value": "1eLaZleiIgEJZsbXZ5Tavrm5",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-06T13:28:47.163Z",
-        "lastAccessed": "2024-09-06T13:28:47.163Z"
-    },
-    {
-        "key": "sb",
-        "value": "1eLaZii94EIqURUqYI965Kb6",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-06T13:28:47.163Z",
-        "lastAccessed": "2024-09-06T13:28:47.163Z"
-    },
+
+
     {
         "key": "vpd",
         "value": "v1%3B729x384x2.8125",
@@ -78,33 +52,5 @@
         "path": "/",
         "hostOnly": false,
         "creation": "2024-09-06T13:28:47.163Z",
-        "lastAccessed": "2024-09-06T13:28:47.163Z"
-    },
-    {
-        "key": "locale",
-        "value": "en_GB",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-06T13:28:47.163Z",
-        "lastAccessed": "2024-09-06T13:28:47.163Z"
-    },
-    {
-        "key": "fbl_st",
-        "value": "101527099%3BT%3A28760488",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-06T13:28:47.163Z",
-        "lastAccessed": "2024-09-06T13:28:47.163Z"
-    },
-    {
-        "key": "wl_cbv",
-        "value": "v2%3Bclient_version%3A2613%3Btimestamp%3A1725629314",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-06T13:28:47.163Z",
-        "lastAccessed": "2024-09-06T13:28:47.163Z"
-    }
-]
+        "lastAccessed2024-09-06T13:28:47.163Z",
+        "lastAccessed": "2024-09-06
